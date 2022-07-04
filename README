@@ -5,3 +5,5 @@ This are the samples for the course with the same name. The folders should be se
 - **Preamble** contains the evolution of the code as the specifications changed over time.
 - **Refactoring** contains the steps in which we did the refactoring of the code.
 - **AnotherRefactoring** contains a different refactoring for the same code, in an object oriented way
+
+The **refactoring.pdf** file contains the slides used for the course.
